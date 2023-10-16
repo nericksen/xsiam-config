@@ -1,0 +1,30 @@
+{
+    "custom_packs": [
+        
+    ],
+    "marketplace_packs": [
+        {
+            "id": "FeedJSON",
+            "version": "*"
+        },
+        {
+            "id": "GoogleCloudStorage",
+            "version": "*"
+        },
+        {
+            "id": "GitHub",
+            "version": "*"
+        },
+        
+        {
+            "id": "GraphQL",
+            "version": "*"
+        }
+    ],
+    "lists": [
+        
+    ],
+    "jobs": [
+     
+    ]
+}
